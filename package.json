@@ -1,15 +1,15 @@
 {
   "name": "node-todo-2",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
   "bin": {
     "t": "cli.js"
   },
   "files": [
     "*.js"
   ],
-  "version": "0.0.3",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
+  "scripts":{
     "test": "jest"
   },
   "dependencies": {
